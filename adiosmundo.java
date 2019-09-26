@@ -2,7 +2,7 @@
 package Ejercicios;
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class adiosmundo {
 	
 	
 		
