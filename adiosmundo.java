@@ -1,4 +1,4 @@
- 
+//modificado por jositoluiso 
 package Ejercicios;
 import java.util.Scanner;
 
